@@ -34,6 +34,19 @@ A Comparative Analysis of T-shirts (having Color, Fabric and Size as attributes)
 \
 &emsp;&emsp;&#8226;&emsp;Size first, Color second and Fabric last in descending order\
 
+### T-shirt Attibutes' Values
+
+| Value | Size | Colors | Fabric    |
+|-------|------|--------|-----------|
+| 1     | XS   | RED    | WOOL      |
+| 2     | S    | ORANGE | COTTON    |
+| 3     | M    | YELLOW | POLYESTER |
+| 4     | L    | GREEN  | RAYON     |
+| 5     | XL   | BLUE   | LINEN     |
+| 6     | XXL  | INDIGO | CASHMERE  |
+| 7     | XXXL | VIOLET | SILK      |
+
+
 ## Demonstration
 
 Executing the application all presentations are printed to user's console.
